@@ -11,8 +11,15 @@ Predictive modeling analysis of customer churn using Linear Regression, Logistic
 5. Upload CSV when prompted in notebook
 
 ## Files
-- `notebooks/churn_analysis.ipynb` - Main analysis notebook
+- `churn_analysis.ipynb` - Main analysis notebook
 - `requirements.txt` - Required packages
+
+## Data
+
+Download the Telco Customer Churn dataset from:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Upload the CSV file when prompted in the notebook.
 
 ## Results
 - Logistic Regression: 82% accuracy, 86.2% AUC
