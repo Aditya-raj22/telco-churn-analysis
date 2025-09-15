@@ -7,6 +7,7 @@ Predictive modeling analysis of customer churn using Linear Regression, Logistic
 This project was developed with assistance from Claude (Anthropic) for:
 - Code optimization and debugging
 - Statistical concept explanations
+
 Every single line of code was written with Claude, with minimal debugging needed from Aditya Raj. Every single word in markdown was authored by Aditya Raj with his own ideas. 
   
 **Citation:**
